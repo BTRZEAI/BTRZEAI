@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BTRZEAI
+- 👀 I’m interested in Python and quantitative financial analysis.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on personal projects.
+- 📫 How to reach me: srjbeatriz@outlook.com
